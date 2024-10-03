@@ -23,11 +23,11 @@ This project is a heart disease prediction system that uses various classificati
     pip install -r requirements.txt
     ```
 ### Project Screenshots
-![Variation of Age for each target class](images/subplot_tool.png)
-![Variation of Age for each target class](images/subplot_tool.png)
-![Subplot Configuration Tool](images/subplot_tool.png)
-![Distrubution of Age vs. Sex with the target class](images/subplot_tool.png)
-![Accuracy of training set](images/subplot_tool.png)
+![Variation of Age for each target class](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%20(163).png)
+![Variation of Age for each target class](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%20(164).png)
+![Subplot Configuration Tool](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%20(165).png)
+![Distrubution of Age vs. Sex with the target class](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%20(166).png)
+![Accuracy of training set](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%20(163).png)
 ### Usage
 1. Place your dataset in the `data/` directory.
 2. Run the main script to execute the models:
