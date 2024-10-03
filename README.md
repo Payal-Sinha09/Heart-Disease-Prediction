@@ -27,7 +27,7 @@ This project is a heart disease prediction system that uses various classificati
 ![Variation of Age for each target class](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%20(164).png)
 ![Subplot Configuration Tool](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%20(165).png)
 ![Distrubution of Age vs. Sex with the target class](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%20(166).png)
-![Accuracy of training set](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%20(163).png)
+![Accuracy of training set](https://github.com/Payal-Sinha09/Heart-Disease-Prediction/blob/master/image/Screenshot%202024-10-01%20185236.png)
 ### Usage
 1. Place your dataset in the `data/` directory.
 2. Run the main script to execute the models:
