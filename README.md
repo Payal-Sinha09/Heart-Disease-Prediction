@@ -22,7 +22,11 @@ This project is a heart disease prediction system that uses various classificati
     ```sh
     pip install -r requirements.txt
     ```
-
+### Project Screenshots
+![Variation of Age for each target class](images/subplot_tool.png)
+![Variation of Age for each target class](images/subplot_tool.png)
+![Subplot Configuration Tool](images/subplot_tool.png)
+![Distrubution of Age vs. Sex with the target class](images/subplot_tool.png)
 ### Usage
 1. Place your dataset in the `data/` directory.
 2. Run the main script to execute the models:
